@@ -1,6 +1,6 @@
 # VBA_challenge
 
-This repository includes the challenge for the module 2: the excel files with the code already run and the file with the script.
+This repository includes the challenge for the module 2: the screenshots from the excel file with the code already run and the file with the script.
 
 The code includes a brief description of each of the steps to develop it.
 
